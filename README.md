@@ -9,7 +9,7 @@ For our clients and for ourselves
 ## Three unchaning principles: 
 |Service|Solidarity|Subsidiarity|
 |---|---|---|
-|We are here to help. Serving is the most satisfying.|We are all in this together. Noboby is above anything.|Eace one should have space to own the work.|
+|We are here to help. Serving is the most satisfying.|We are all in this together. Noboby is above anything.|Each one should have space to own the work.|
 
 ## Code of Rights and Responsibilities
 
