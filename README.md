@@ -22,4 +22,4 @@ For our clients and for ourselves
 |know when the next milestone is due|care when the next milestone is due|
 |know who to talk to about concerns|share concerns honestly and respectfully|
 |own the work|own the work|
-|get creative about stuff|find ways to help everyone where possible|
+|get creative about stuff|seek ways to help solve problems|
