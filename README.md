@@ -1,10 +1,10 @@
-# Team Readme
+# Team README
 A guide to how we work together.
 
 ## One goal: Happiness
 For our clients and for ourselves
 
-(Think "flourishing and growth" [read more](https://www.macat.com/blog/2017/5/20/aristotles-secret-to-happiness-what-will-make-us-happy-now))
+(Think "flourishing and growth" - [read more](https://www.macat.com/blog/2017/5/20/aristotles-secret-to-happiness-what-will-make-us-happy-now))
 
 ## Three unchaning principles: 
 |Service|Solidarity|Subsidiarity|
