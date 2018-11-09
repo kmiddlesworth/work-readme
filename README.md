@@ -1,4 +1,4 @@
-# Work Readme
+# Team Readme
 A guide to how we work together.
 
 ## One goal: Happiness
