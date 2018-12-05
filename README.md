@@ -6,7 +6,7 @@ For our clients and for ourselves
 
 (Think "flourishing and growth" - [read more](https://www.macat.com/blog/2017/5/20/aristotles-secret-to-happiness-what-will-make-us-happy-now))
 
-## Three unchaning principles: 
+## Three unchanging principles: 
 |Service|Solidarity|Subsidiarity|
 |---|---|---|
 |We are here to help. Serving is the most satisfying.|We are all in this together. Noboby is above anything.|Each one should have space to own the work.|
